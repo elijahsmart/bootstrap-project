@@ -1,0 +1,16 @@
+.span1{
+	background: #7B7D7D;
+	text-align: center;
+	color: white;
+}
+
+td{
+text-align: center;
+font-weight: bold;
+font-size: 20px;
+background-color: #f5f5f0;
+}
+
+.yellow-col{
+	background-color: #E67e22;
+}

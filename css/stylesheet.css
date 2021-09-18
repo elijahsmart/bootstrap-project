@@ -1,0 +1,16 @@
+.col1{
+	color: white;
+	background-color: pink;
+}
+.col2{
+	color: white;
+	background-color: olive;
+}
+.nested-col-1{
+	color: blue;
+	background-color: yellow;
+}
+.nested-col-2{
+	color: white;
+	background-color: tomato;
+}
